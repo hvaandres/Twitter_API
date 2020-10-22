@@ -1,0 +1,20 @@
+{
+  "name": "twitter_bot",
+  "version": "1.0.0",
+  "description": "Twitter API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "script",
+    "api"
+  ],
+  "author": "Alan A. Haro",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
